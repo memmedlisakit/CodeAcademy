@@ -1,0 +1,12 @@
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\bin\Debug\CodeAcademy.exe.config
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\bin\Debug\CodeAcademy.exe
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\bin\Debug\CodeAcademy.pdb
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.csprojResolveAssemblyReference.cache
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.Form1.resources
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.Properties.Resources.resources
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.csproj.GenerateResource.Cache
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.exe
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.pdb
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.Forms.AddSubject.resources
+C:\Users\Sakit\Desktop\CodeAcademy\CodeAcademy\obj\Debug\CodeAcademy.Forms.AddTeacher.resources
